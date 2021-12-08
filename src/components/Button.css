@@ -1,0 +1,18 @@
+.button{
+    /* background-color: #fff; */
+}
+
+.inverted{
+    transform: rotate(180deg);
+}
+
+button{
+    height: 20vh;
+    width: 70vw;
+    border: 10px solid black;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    font-weight: 900;
+    box-shadow: 0 0 20px 2px rgba(0,0,0,0.5);
+}
